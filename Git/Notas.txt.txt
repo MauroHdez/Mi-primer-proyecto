@@ -1,0 +1,13 @@
+Carrito de compras
+
+1.-Tortillas
+2.-Pan
+3.-Queso
+4.-Cebolla 
+5.-Manzana 
+6.-Papaya
+7.-Celular
+8.-Computadora
+9.-Pantalla
+10.-Iphone
+11.-Television
